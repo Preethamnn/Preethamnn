@@ -24,7 +24,7 @@ Cybersecurity and Cloud professional with hands-on experience across SOC operati
 I work on practical projects that connect security with modern software delivery: collecting telemetry, writing detections, automating incident response, scanning source and container images, securing Kubernetes workloads, and provisioning infrastructure.
 
 - 📍 Bengaluru, India
-- 🎓 M.Tech in Computer Network Engineering — CGPA: 9.2/10
+- 🎓 M.Tech in Computer Network Engineering — CGPA: 9.3/10
 - 💼 IT Security Intern at Textron India Pvt. Ltd.
 - 🧭 Interested in: Cloud Security, SOC Engineering, DevSecOps, Platform Security, and Detection Automation
 - 🎯 Goal: Build secure, observable, and maintainable cloud-native systems
